@@ -121,7 +121,8 @@ https://templatemo.com/tm-568-digimedia
                                         <h6>REMIUM FLORIST & GIFTS</h6>
                                         <h2>Make Every Moment Bloom with Weistt</h2>
                                         <p>The finest flower arrangements that express your feelings.
-                                            From everlasting Edelweiss to select roses, we bring the beauty of nature right to your fingertips.</p>
+                                            From everlasting Edelweiss to select roses, we bring the beauty of nature
+                                            right to your fingertips.</p>
                                     </div>
                                     <div class="col-lg-12">
                                         <div class="border-first-button scroll-to-section">
@@ -133,7 +134,8 @@ https://templatemo.com/tm-568-digimedia
                         </div>
                         <div class="col-lg-6">
                             <div class="right-image wow fadeInRight" data-wow-duration="1s" data-wow-delay="0.5s">
-                                <img src="assets/images/slider-dec-v2.png" alt="">
+                                <img src="assets/images/cherry-blossom.png" alt=""
+                                    style="width: 70%; height: auto;">
                             </div>
                         </div>
                     </div>
@@ -148,9 +150,8 @@ https://templatemo.com/tm-568-digimedia
                 <div class="col-lg-12">
                     <div class="row">
                         <div class="col-lg-6">
-                            <div class="about-left-image  wow fadeInLeft" data-wow-duration="1s"
-                                data-wow-delay="0.5s">
-                                <img src="assets/images/about-dec-v2.png" alt="">
+                            <div class="about-left-image  wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.5s">
+                                <img src="assets/images/about-care.png" alt="">
                             </div>
                         </div>
                         <div class="col-lg-6 align-self-center  wow fadeInRight" data-wow-duration="1s"
@@ -158,14 +159,16 @@ https://templatemo.com/tm-568-digimedia
                             <div class="about-right-content">
                                 <div class="section-heading">
                                     <h6>About Us</h6>
-                                    <h4>Who is DigiMedia <em>Agency</em></h4>
+                                    <h4>Who is Weistt <em>Agency</em></h4>
                                     <div class="line-dec"></div>
                                 </div>
-                                <p>We hope this DigiMedia template is useful for your work. You can use this template
-                                    for any purpose. You may <a rel="nofollow" href="http://paypal.me/templatemo"
-                                        target="_blank">contribute a little amount</a> via PayPal to <a
-                                        href="https://templatemo.com/contact" target="_blank">support TemplateMo</a>
-                                    in creating new templates regularly.</p>
+                                <p>Weistt Agency is dedicated to bringing nature closer to people through floral
+                                    creations,
+                                    sustainable plant design, and eco-inspired decorations. Our mission is to promote
+                                    environmental appreciation by transforming natural beauty into meaningful
+                                    experiences
+                                    for homes, events, and everyday life.
+                                </p>
                                 <div class="row">
                                     <div class="col-lg-4 col-sm-4">
                                         <div class="skill-item first-skill-item wow fadeIn" data-wow-duration="1s"
@@ -180,7 +183,7 @@ https://templatemo.com/tm-568-digimedia
                                                 <div class="progress-value">
                                                     <div>
                                                         90%<br>
-                                                        <span>Coding</span>
+                                                        <span>Design</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -199,7 +202,7 @@ https://templatemo.com/tm-568-digimedia
                                                 <div class="progress-value">
                                                     <div>
                                                         80%<br>
-                                                        <span>Photoshop</span>
+                                                        <span>Plants</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -208,7 +211,7 @@ https://templatemo.com/tm-568-digimedia
                                     <div class="col-lg-4 col-sm-4">
                                         <div class="skill-item third-skill-item wow fadeIn" data-wow-duration="1s"
                                             data-wow-delay="0s">
-                                            <div class="progress" data-percentage="80">
+                                            <div class="progress" data-percentage="90">
                                                 <span class="progress-left">
                                                     <span class="progress-bar"></span>
                                                 </span>
@@ -217,8 +220,8 @@ https://templatemo.com/tm-568-digimedia
                                                 </span>
                                                 <div class="progress-value">
                                                     <div>
-                                                        80%<br>
-                                                        <span>Animation</span>
+                                                        90%<br>
+                                                        <span>Artistry</span>
                                                     </div>
                                                 </div>
                                             </div>
@@ -251,37 +254,37 @@ https://templatemo.com/tm-568-digimedia
                                     <div class="menu">
                                         <div class="first-thumb active">
                                             <div class="thumb">
-                                                <span class="icon"><img src="assets/images/service-icon-01.png"
+                                                <span class="icon"><img src="assets/images/floral-icon.png"
                                                         alt=""></span>
-                                                Apartments
+                                                Floral
                                             </div>
                                         </div>
                                         <div>
                                             <div class="thumb">
-                                                <span class="icon"><img src="assets/images/service-icon-02.png"
+                                                <span class="icon"><img src="assets/images/botanic-icon.png"
                                                         alt=""></span>
-                                                Food &amp; Life
+                                                Botanic
                                             </div>
                                         </div>
                                         <div>
                                             <div class="thumb">
-                                                <span class="icon"><img src="assets/images/service-icon-03.png"
+                                                <span class="icon"><img src="assets/images/garden-icon.png"
                                                         alt=""></span>
-                                                Cars
+                                                Garden
                                             </div>
                                         </div>
                                         <div>
                                             <div class="thumb">
-                                                <span class="icon"><img src="assets/images/service-icon-04.png"
+                                                <span class="icon"><img src="assets/images/decor-icon.png"
                                                         alt=""></span>
-                                                Shopping
+                                                Decor
                                             </div>
                                         </div>
                                         <div class="last-thumb">
                                             <div class="thumb">
-                                                <span class="icon"><img src="assets/images/service-icon-01.png"
+                                                <span class="icon"><img src="assets/images/gifts-icon.png"
                                                         alt=""></span>
-                                                Traveling
+                                                Gifts
                                             </div>
                                         </div>
                                     </div>
@@ -294,30 +297,28 @@ https://templatemo.com/tm-568-digimedia
                                                     <div class="row">
                                                         <div class="col-lg-6 align-self-center">
                                                             <div class="left-text">
-                                                                <h4>SEO Analysis &amp; Daily Reports</h4>
-                                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing
-                                                                    elit, sedr do eiusmod deis tempor incididunt ut
-                                                                    labore et dolore kengan darwin doerski token.
-                                                                    dover lipsum lorem and the others.</p>
-                                                                <div class="ticks-list"><span><i
-                                                                            class="fa fa-check"></i> Optimized
-                                                                        Template</span> <span><i
-                                                                            class="fa fa-check"></i> Data Info</span>
-                                                                    <span><i class="fa fa-check"></i> SEO
-                                                                        Analysis</span>
-                                                                    <span><i class="fa fa-check"></i> Data Info</span>
-                                                                    <span><i class="fa fa-check"></i> SEO
-                                                                        Analysis</span> <span><i
-                                                                            class="fa fa-check"></i> Optimized
-                                                                        Template</span>
+                                                                <h4>Floral Design Services</h4>
+                                                                <p>Our floral service brings the beauty of nature into
+                                                                    any moment. From handcrafted bouquets to elegant natural
+                                                                    arrangements, each piece is designed with
+                                                                    care to reflect emotion, harmony, and
+                                                                    the essence of bloom.</p>
+                                                               <div class="ticks-list">
+                                                                    <span><i class="fa fa-check"></i> Fresh Blooms</span>
+                                                                    <span><i class="fa fa-check"></i> Handcrafted</span>
+                                                                    <span><i class="fa fa-check"></i> Custom Styles</span>
+                                                                    <span><i class="fa fa-check"></i> Seasonal Picks</span>
+                                                                    <span><i class="fa fa-check"></i> Natural Colors</span>
+                                                                    <span><i class="fa fa-check"></i> Premium Quality</span>
                                                                 </div>
-                                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing
-                                                                    elit, sedr do eiusmod deis tempor incididunt.</p>
+
+                                                                <p>Every arrangement is created with precision to ensure beauty, freshness,
+                                                                    and a memorable impression.</p>
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-6 align-self-center">
                                                             <div class="right-image">
-                                                                <img src="assets/images/services-image.jpg"
+                                                                <img src="assets/images/services-floral.png"
                                                                     alt="">
                                                             </div>
                                                         </div>
@@ -331,30 +332,25 @@ https://templatemo.com/tm-568-digimedia
                                                     <div class="row">
                                                         <div class="col-lg-6 align-self-center">
                                                             <div class="left-text">
-                                                                <h4>Healthy Food &amp; Life</h4>
-                                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing
-                                                                    elit, sedr do eiusmod deis tempor incididunt ut
-                                                                    labore et dolore kengan darwin doerski token.
-                                                                    dover lipsum lorem and the others.</p>
-                                                                <div class="ticks-list"><span><i
-                                                                            class="fa fa-check"></i> Optimized
-                                                                        Template</span> <span><i
-                                                                            class="fa fa-check"></i> Data Info</span>
-                                                                    <span><i class="fa fa-check"></i> SEO
-                                                                        Analysis</span>
-                                                                    <span><i class="fa fa-check"></i> Data Info</span>
-                                                                    <span><i class="fa fa-check"></i> SEO
-                                                                        Analysis</span> <span><i
-                                                                            class="fa fa-check"></i> Optimized
-                                                                        Template</span>
+                                                                <h4>Sustainable Plant Decor</h4>
+                                                                <p>Our botanic service focuses on natural plant styling, sustainable
+                                                                    greenery, and curated plant selections that enhance any
+                                                                    environment with calmness and life.</p>
+                                                                <div class="ticks-list">
+                                                                    <span><i class="fa fa-check"></i> Indoor Plants</span>
+                                                                    <span><i class="fa fa-check"></i> Green Styling</span>
+                                                                    <span><i class="fa fa-check"></i> Low-Maintenance</span>
+                                                                    <span><i class="fa fa-check"></i> Air-Purifying</span>
+                                                                    <span><i class="fa fa-check"></i> Eco-Friendly</span>
+                                                                    <span><i class="fa fa-check"></i> Sustainable Picks</span>
                                                                 </div>
-                                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing
-                                                                    elit, sedr do eiusmod deis tempor incididunt.</p>
+
+                                                                <p>Designed to bring natural balance into modern living spaces.</p>
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-6 align-self-center">
                                                             <div class="right-image">
-                                                                <img src="assets/images/services-image-02.jpg"
+                                                                <img src="assets/images/services-botanic.png"
                                                                     alt="">
                                                             </div>
                                                         </div>
@@ -368,30 +364,25 @@ https://templatemo.com/tm-568-digimedia
                                                     <div class="row">
                                                         <div class="col-lg-6 align-self-center">
                                                             <div class="left-text">
-                                                                <h4>Car Re-search &amp; Transport</h4>
-                                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing
-                                                                    elit, sedr do eiusmod deis tempor incididunt ut
-                                                                    labore et dolore kengan darwin doerski token.
-                                                                    dover lipsum lorem and the others.</p>
-                                                                <div class="ticks-list"><span><i
-                                                                            class="fa fa-check"></i> Optimized
-                                                                        Template</span> <span><i
-                                                                            class="fa fa-check"></i> Data Info</span>
-                                                                    <span><i class="fa fa-check"></i> SEO
-                                                                        Analysis</span>
-                                                                    <span><i class="fa fa-check"></i> Data Info</span>
-                                                                    <span><i class="fa fa-check"></i> SEO
-                                                                        Analysis</span> <span><i
-                                                                            class="fa fa-check"></i> Optimized
-                                                                        Template</span>
+                                                                <h4>Artistic Nature Craft</h4>
+                                                                <p>We design small to medium natural gardens that blend aesthetic beauty
+                                                                    with environmental care, perfect for homes, cafés, and workspaces.</p>
+                                                                <div class="ticks-list">
+                                                                    <span><i class="fa fa-check"></i> Mini Gardens</span>
+                                                                    <span><i class="fa fa-check"></i> Outdoor Green</span>
+                                                                    <span><i class="fa fa-check"></i> Custom Layout</span>
+                                                                    <span><i class="fa fa-check"></i> Plant Selection</span>
+                                                                    <span><i class="fa fa-check"></i> Natural Soil</span>
+                                                                    <span><i class="fa fa-check"></i> Water System</span>
                                                                 </div>
-                                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing
-                                                                    elit, sedr do eiusmod deis tempor incididunt.</p>
+
+                                                                <p>Created to enrich your space with refreshing, natural elements.</p>
+
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-6 align-self-center">
                                                             <div class="right-image">
-                                                                <img src="assets/images/services-image-03.jpg"
+                                                                <img src="assets/images/services-garden.png"
                                                                     alt="">
                                                             </div>
                                                         </div>
@@ -405,30 +396,26 @@ https://templatemo.com/tm-568-digimedia
                                                     <div class="row">
                                                         <div class="col-lg-6 align-self-center">
                                                             <div class="left-text">
-                                                                <h4>Online Shopping &amp; Tracking ID</h4>
-                                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing
-                                                                    elit, sedr do eiusmod deis tempor incididunt ut
-                                                                    labore et dolore kengan darwin doerski token.
-                                                                    dover lipsum lorem and the others.</p>
-                                                                <div class="ticks-list"><span><i
-                                                                            class="fa fa-check"></i> Optimized
-                                                                        Template</span> <span><i
-                                                                            class="fa fa-check"></i> Data Info</span>
-                                                                    <span><i class="fa fa-check"></i> SEO
-                                                                        Analysis</span>
-                                                                    <span><i class="fa fa-check"></i> Data Info</span>
-                                                                    <span><i class="fa fa-check"></i> SEO
-                                                                        Analysis</span> <span><i
-                                                                            class="fa fa-check"></i> Optimized
-                                                                        Template</span>
-                                                                </div>
-                                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing
-                                                                    elit, sedr do eiusmod deis tempor incididunt.</p>
+                                                                <h4>Event Floral Experience</h4>
+                                                                <p>Our decor service transforms any room or event using natural elements,
+                                                                    floral themes, and eco-inspired arrangements that elevate atmosphere and warmth.</p>
+
+                                                                    <div class="ticks-list">
+                                                                        <span><i class="fa fa-check"></i> Nature Setup</span>
+                                                                        <span><i class="fa fa-check"></i> Floral Decor</span>
+                                                                        <span><i class="fa fa-check"></i> Mood Lighting</span>
+                                                                        <span><i class="fa fa-check"></i> Soft Textures</span>
+                                                                        <span><i class="fa fa-check"></i> Event Styling</span>
+                                                                        <span><i class="fa fa-check"></i> Clean Aesthetic</span>
+                                                                    </div>
+
+                                                                    <p>Perfect for special moments that deserve visual harmony and elegance.</p>
+
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-6 align-self-center">
                                                             <div class="right-image">
-                                                                <img src="assets/images/services-image-04.jpg"
+                                                                <img src="assets/images/services-decor.png"
                                                                     alt="">
                                                             </div>
                                                         </div>
@@ -442,30 +429,26 @@ https://templatemo.com/tm-568-digimedia
                                                     <div class="row">
                                                         <div class="col-lg-6 align-self-center">
                                                             <div class="left-text">
-                                                                <h4>Enjoy &amp; Travel</h4>
-                                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing
-                                                                    elit, sedr do eiusmod deis tempor incididunt ut
-                                                                    labore et dolore kengan darwin doerski token.
-                                                                    dover lipsum lorem and the others.</p>
-                                                                <div class="ticks-list"><span><i
-                                                                            class="fa fa-check"></i> Optimized
-                                                                        Template</span> <span><i
-                                                                            class="fa fa-check"></i> Data Info</span>
-                                                                    <span><i class="fa fa-check"></i> SEO
-                                                                        Analysis</span>
-                                                                    <span><i class="fa fa-check"></i> Data Info</span>
-                                                                    <span><i class="fa fa-check"></i> SEO
-                                                                        Analysis</span> <span><i
-                                                                            class="fa fa-check"></i> Optimized
-                                                                        Template</span>
-                                                                </div>
-                                                                <p>Lorem ipsum dolor sit amet, consectetur adipiscing
-                                                                    elit, sedr do eiusmod deis tempor incididunt.</p>
+                                                                <h4>Eco Gift Solutions</h4>
+                                                                <p>We provide handcrafted natural gifts—from preserved flowers to mini plant sets—perfect
+                                                                    for meaningful expressions, surprises, and celebrations.</p>
+
+                                                                    <div class="ticks-list">
+                                                                        <span><i class="fa fa-check"></i> Flower Boxes</span>
+                                                                        <span><i class="fa fa-check"></i> Plant Kits</span>
+                                                                        <span><i class="fa fa-check"></i> Custom Notes</span>
+                                                                        <span><i class="fa fa-check"></i> Eco Packaging</span>
+                                                                        <span><i class="fa fa-check"></i> Long-Lasting</span>
+                                                                        <span><i class="fa fa-check"></i> Premium Touch</span>
+                                                                    </div>
+
+                                                                    <p>Thoughtful gifts crafted with a natural touch and personal meaning.</p>
+
                                                             </div>
                                                         </div>
                                                         <div class="col-lg-6 align-self-center">
                                                             <div class="right-image">
-                                                                <img src="assets/images/services-image.jpg"
+                                                                <img src="assets/images/services-gift.png"
                                                                     alt="">
                                                             </div>
                                                         </div>
@@ -484,7 +467,7 @@ https://templatemo.com/tm-568-digimedia
     </div>
 
 
-    <div id="free-quote" class="free-quote">
+    {{-- <div id="free-quote" class="free-quote">
         <div class="container">
             <div class="row">
                 <div class="col-lg-4 offset-lg-4">
@@ -519,7 +502,7 @@ https://templatemo.com/tm-568-digimedia
                 </div>
             </div>
         </div>
-    </div>
+    </div> --}}
 
 
     <div id="portfolio" class="our-portfolio section">
@@ -542,11 +525,11 @@ https://templatemo.com/tm-568-digimedia
                             <a href="#">
                                 <div class="portfolio-item">
                                     <div class="thumb">
-                                        <img src="assets/images/portfolio-01.jpg" alt="">
+                                        <img src="assets/images/sunflower-floral.jpg" alt="">
                                     </div>
                                     <div class="down-content">
-                                        <h4>Website Builder</h4>
-                                        <span>Marketing</span>
+                                        <h4>Sunflower</h4>
+                                        <span>Floral</span>
                                     </div>
                                 </div>
                             </a>
@@ -555,11 +538,11 @@ https://templatemo.com/tm-568-digimedia
                             <a href="#">
                                 <div class="portfolio-item">
                                     <div class="thumb">
-                                        <img src="assets/images/portfolio-01.jpg" alt="">
+                                        <img src="assets/images/indor-botanic.jpg" alt="">
                                     </div>
                                     <div class="down-content">
-                                        <h4>Website Builder</h4>
-                                        <span>Marketing</span>
+                                        <h4>Indor Botanic</h4>
+                                        <span>Botanic</span>
                                     </div>
                                 </div>
                             </a>
@@ -568,11 +551,11 @@ https://templatemo.com/tm-568-digimedia
                             <a href="#">
                                 <div class="portfolio-item">
                                     <div class="thumb">
-                                        <img src="assets/images/portfolio-02.jpg" alt="">
+                                        <img src="assets/images/art-garden.jpg" alt="">
                                     </div>
                                     <div class="down-content">
-                                        <h4>Website Builder</h4>
-                                        <span>Marketing</span>
+                                        <h4>Handcrafted Eco Art</h4>
+                                        <span>Garden</span>
                                     </div>
                                 </div>
                             </a>
@@ -581,11 +564,11 @@ https://templatemo.com/tm-568-digimedia
                             <a href="#">
                                 <div class="portfolio-item">
                                     <div class="thumb">
-                                        <img src="assets/images/portfolio-03.jpg" alt="">
+                                        <img src="assets/images/styling-decor.jpg" alt="">
                                     </div>
                                     <div class="down-content">
-                                        <h4>Website Builder</h4>
-                                        <span>Marketing</span>
+                                        <h4>Event Floral Styling</h4>
+                                        <span>Decor</span>
                                     </div>
                                 </div>
                             </a>
@@ -594,11 +577,11 @@ https://templatemo.com/tm-568-digimedia
                             <a href="#">
                                 <div class="portfolio-item">
                                     <div class="thumb">
-                                        <img src="assets/images/portfolio-04.jpg" alt="">
+                                        <img src="assets/images/handmade-gifts.jpg" alt="">
                                     </div>
                                     <div class="down-content">
-                                        <h4>Website Builder</h4>
-                                        <span>Marketing</span>
+                                        <h4>Handmade Nature Gifts</h4>
+                                        <span>Gifts</span>
                                     </div>
                                 </div>
                             </a>
